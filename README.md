@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a PhD student in Economics at The University of Tokyo, Japan.
 
 <!--
 **hiroyukikbt/hiroyukikbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
