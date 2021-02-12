@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm a PhD student in Economics at The University of Tokyo, Japan.
+For my own researches, see [Google Scholar](https://scholar.google.co.id/citations?user=A-_mlTkAAAAJ&hl).
 
 <!--
 **hiroyukikbt/hiroyukikbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
