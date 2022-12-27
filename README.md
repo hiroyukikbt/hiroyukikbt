@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a PhD student in Economics at The University of Tokyo, Japan.
+I'm a PhD student in economics at UCLA.
 For my own researches, see [Google Scholar](https://scholar.google.co.id/citations?user=A-_mlTkAAAAJ&hl).
 
 <!--
